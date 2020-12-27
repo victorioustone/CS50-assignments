@@ -1,6 +1,6 @@
 # CS50-tasks
 
 ### Problem Set 1
-[Version of Mario if feeling more comfortable](credit.c)
+[Version of Mario](credit.c) if feeling more comfortable
 
-[Credit if feeling more comfortable](mario.c)
+[Credit if](mario.c) if feeling more comfortable
