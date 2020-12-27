@@ -13,7 +13,7 @@ int main(void)
         // n = get_int("");
     }
     while (n < 1 || n > 8);
-    // I've deleted the pyramid into two parts. 
+    // divided the pyramid into two parts. 
     // counter1 if for the step
     int counter1 = n - 1;
     // counter2 is for the length of pyramid
