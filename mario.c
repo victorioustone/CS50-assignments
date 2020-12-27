@@ -18,10 +18,8 @@ int main(void)
     int counter1 = n - 1;
     // counter2 is for the length of pyramid
     int counter2 = n * 2 + 2;
-    // each level
     for (int i = 0; i < n; i++)
     {
-        // each block
         for (int j = 0; j < counter2; j++)
         {
             // left side
