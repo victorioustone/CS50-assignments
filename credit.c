@@ -6,7 +6,11 @@ void type_num(long num);
 
 int main(void)
 {
-    long num = get_long("Number: ");
+    long num;
+    printf("Number: ");
+    scanf("%ld", &num);
+    // or
+    // long num = get_long("Number: ");
     type_num(num);
 }
 
