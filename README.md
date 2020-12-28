@@ -7,3 +7,5 @@
 
 ### Problem Set 2
 [Readability](readability.c)
+
+[Substitution](substitution.c) if feeling more comfortable
