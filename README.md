@@ -9,3 +9,6 @@
 [Readability](readability.c)
 
 [Substitution](substitution.c) if feeling more comfortable
+
+### Problem Set 3
+[Plurality](plurality.c)
