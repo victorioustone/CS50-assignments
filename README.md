@@ -22,5 +22,5 @@
 
 [Lab 2](labs/scrabble.c)
 
-[Lab 3](labs/answer.txt)
+[Lab 3](labs/answers.txt)
 (All files in lab3.zip)
