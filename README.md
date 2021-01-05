@@ -14,3 +14,8 @@
 [Plurality](pset3/plurality.c)
 
 [Tideman](pset3/tideman.c)
+
+
+
+### LABS
+[Lab 1](labs/population.c)
