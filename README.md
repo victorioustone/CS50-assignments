@@ -1,6 +1,6 @@
 # CS50 programming assignments
 
-[Duck](duck.jpg)
+![Duck](duck.jpg)
 
 
 ### Problem Set 1 (C)
