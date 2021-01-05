@@ -1,6 +1,6 @@
 # CS50 programming assignments
 
-![Duck](duck.png)
+![Duck](ddb.png)
 
 
 ### Problem Set 1 (C)
