@@ -1,6 +1,5 @@
 # CS50 programming assignments
 
-<<<<<<< HEAD
 ![Duck](duck.png)
 
 
