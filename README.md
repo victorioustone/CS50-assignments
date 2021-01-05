@@ -1,14 +1,14 @@
 # CS50 programming assignments
 
 ### Problem Set 1 (C)
-[Version of Mario](mario.c)
+[Version of Mario](pset1/mario.c)
 
-[Credit](credit.c)
+[Credit](pset1/credit.c)
 
 ### Problem Set 2 (Arrays) 
-[Readability](readability.c)
+[Readability](pset2/readability.c)
 
-[Substitution](substitution.c)
+[Substitution](pset2/substitution.c)
 
 ### Problem Set 3 (Algorithms)
-[Plurality](plurality.c)
+[Plurality](pset3/plurality.c)
