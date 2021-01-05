@@ -12,3 +12,5 @@
 
 ### Problem Set 3 (Algorithms)
 [Plurality](pset3/plurality.c)
+
+[Tideman](pset3/tideman.c)
