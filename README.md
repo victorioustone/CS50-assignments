@@ -1,5 +1,8 @@
 # CS50 programming assignments
 
+[Duck](duck.jpg)
+
+
 ### Problem Set 1 (C)
 [Version of Mario](pset1/mario.c)
 
