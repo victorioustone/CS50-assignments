@@ -19,3 +19,8 @@
 
 ### LABS
 [Lab 1](labs/population.c)
+
+[Lab 2](labs/scrabble.c)
+
+[Lab 3](labs/scrabble.txt)
+All files in lab3.zip
